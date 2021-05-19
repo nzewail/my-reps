@@ -26,7 +26,7 @@ Click the 'Fork' button in the upper right corner of this page to copy it to you
 
 Next, you can clone it to your local computer (requires the command line):
 ``` bash
-git clone git@github.com:your-name-here/my-reps.git
+git clone git@github.com:nzewail/my-reps.git
 cd my-reps
 ```
 
